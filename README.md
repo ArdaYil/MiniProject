@@ -1,0 +1,3 @@
+In order to run the game you must have a computer with you as well as a monitor. First connect the board via usb to a computer with the tool chain installed, then compile the code by running make in the terminal and then run dtekv-run main.bin. Make sure the VGA is connected to the screen before doing this.
+
+In order to play the game select a level by flipping one of the toggle switches. First switch to the left is level 1 and each switch to the right increments to level by 1 all the way up to level 5. Then press the button to jump. Once the game is over unflip the toggle switch and click the push button to return to the menu otherwise just click the push button to play the same level again.
